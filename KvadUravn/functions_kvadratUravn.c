@@ -4,9 +4,6 @@
 
 const int infinity = -1;
 
-
-
-
 int solveSQW(double a, double b, double c, double* x1, double* x2);
 int solveLN(double b, double c, double* x1, double* x2); // bx + c = 0
 double findDiscr(double a, double b, double c);

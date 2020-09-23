@@ -1,9 +1,5 @@
 #include <stdio.h>
-#pragma once
 #include "functions_kvadratUravn.c"
-
-const int infinity = -1;
-
 
 void findDiscrTest(void);
 
